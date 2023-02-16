@@ -1,1 +1,1 @@
-# Inspire-Youth-In-STEM
+git config --global user.name "munyivs"
